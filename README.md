@@ -1,7 +1,7 @@
 ### Hi there :wave:
 
 ---
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=infinity-07&theme=dark&show_icons=true">](https://metrics.lecoq.io/infinity-07?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=infinity-07&show_icons=true">](https://metrics.lecoq.io/infinity-07?template=classic)
 
 我是张阳，目前就读于中国农业大学本科
 
